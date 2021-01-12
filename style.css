@@ -1,0 +1,156 @@
+body{
+    margin: 20px;
+    padding: 0;
+}
+
+
+.blue{
+    color: blue;
+    font-size: 50px;
+    padding:  50px 50px 50px 270px;
+}
+
+
+.one{
+    width: 1300px;
+    background-color: #0b148b;
+    color: #ffffff;
+    border: 5px solid black;
+    text-align: center;
+    font-size: 25px;
+    line-height: 35px;
+    margin: 20px 20px 20px 20px;
+
+}
+
+.two{
+     width: 300px;
+     height: 450px;
+     background-color: red;
+     cursor: pointer;
+     
+}
+
+.two:hover { 
+    width: 1000px;
+    height: 350px;
+    margin: 20px 20px 20px 20px;
+
+}
+
+.three{ 
+    width: 400px;
+    height: 400px;
+    transition: 1s;
+    background: url(image/map.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.three:hover{
+    width: 1000px;
+    transition: 1s;
+    background: url(image/observer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+    text-transform: capitalize;
+    padding: 40px 80px;
+}
+
+.btn a{
+    text-decoration: green;
+    text-size-adjust: 250px;
+    transition: 1s;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 5px;
+
+}
+
+.btn a:hover{
+    background-color: seagreen;
+    
+}
+
+.btn:hover{
+    background-color: orange;
+
+}
+
+
+.four{
+   
+    background-color: sandybrown;
+    width: 1200px;
+    height: 300px;
+    font-size: 24px;
+    line-height: 32px;
+    overflow: hidden;
+    overflow: scroll;
+    margin: 20px 20px 20px 20px;
+}
+
+.five{
+    background-color: thistle;
+    width: 600px;
+    height: 600px;
+    font-size: 24px;
+    line-height: 32px;
+    overflow: hidden;
+    overflow: scroll;
+    margin: 20px 20px 20px 20px;
+}
+
+.six{
+    width: 1000px;
+    height: 300px;
+    background-color: aqua;
+    font-size: 24px;
+    line-height: 32px;
+    overflow: hidden;
+    overflow: scroll;
+    margin: 20px 20px 20px 20px;
+
+}
+
+.seven{
+    width: 1000px;
+    height: 1400px;
+    background-color: rgb(0, 255, 255);
+    font-size: 24px;
+    line-height: 32px;
+    margin: 20px 20px 20px 20px;
+}
+
+.mydiv{
+    width: 400px;
+    height: 600px;
+    transition: 1s;
+    background: url(image/stmartin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    
+}
+
+.mydiv:hover {
+    width: 400px;
+    height: 600px;
+    transition: 1s;
+    background: url(image/BNCC.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+ 
+}
+
